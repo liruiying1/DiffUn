@@ -5,6 +5,7 @@ It is highly dependent on guided-diffusion-model (https://github.com/openai/guid
 Run the run/DiffUn_w.sh and run/DiffUn_wo.sh for unmixing with and without training, respectively. Or use the function guided_diffusion.guided_diffusion.GaussianDiffusion.unmixing().
 
 Some important files are listed here:
+Some important files are listed here:
 ```
 config/  
     model_config_1d.yaml            # model configuration  
